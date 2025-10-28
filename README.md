@@ -1,7 +1,7 @@
 # PushToRecorder
 # 🎙️ WinVoiceRecorder
 
-**WinVoiceRecorder** は、Windows 向けのシンプルな音声録音・再生ツールです。  
+**PushToRecorder** は、Windows 向けのシンプルな音声録音・再生ツールです。  
 PortAudio と Win32 API を使用しており、**スペースキーを押すだけで録音・再生が可能**です。  
 録音データはメモリ上で扱われ、ファイルへの保存は行いません。
 
