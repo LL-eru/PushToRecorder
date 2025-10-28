@@ -25,3 +25,9 @@ PortAudio と Win32 API を使用しており、**スペースキーを押すだ
 | 対応OS | Windows 10 / 11 (64bit) |
 | 開発環境 | Visual Studio 2022 |
 | 使用ライブラリ | PortAudio v19.7.0 (静的リンク済み) |
+
+## 📦 ダウンロード
+
+最新の実行ファイルは以下からダウンロードできます：
+
+👉 [最新版をダウンロードする](https://github.com/<ユーザー名>/PushToRecorder/releases/latest)
