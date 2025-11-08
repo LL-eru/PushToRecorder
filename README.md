@@ -30,4 +30,4 @@ PortAudio と Win32 API を使用しており、**スペースキーを押すだ
 
 最新の実行ファイルは以下からダウンロードできます：
 
-👉 [最新版をダウンロードする](https://github.com/<ユーザー名>/PushToRecorder/releases/latest)
+👉 [最新版をダウンロードする](https://github.com/LL-eru/PushToRecorder/releases/tag/v1.0.0)
